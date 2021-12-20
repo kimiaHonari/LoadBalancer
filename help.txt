@@ -1,0 +1,2 @@
+run LoadBalancer.py , LibraryService.py , DormitoryService.py , PoolService.py simultaneously.
+run client.py and send request
